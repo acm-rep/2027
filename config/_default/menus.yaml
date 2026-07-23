@@ -1,0 +1,95 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+# - name: Participate
+#   identifier: participate
+#   weight: 10
+# - name: Call for Tutorials
+#   parent: participate
+#   url: cft
+#   weight: 40
+# - name: Call for Papers
+#   parent: participate
+#   url: cfp
+#   weight: 30
+# - name: Call for Posters
+#   parent: participate
+#   url: cfposters
+#   weight: 45
+# - name: Register
+#   parent: participate
+#   url: registration
+#   weight: 10
+# - name: Sponsor
+#   parent: participate
+#   url: sponsor
+#   weight: 20
+# - name: Attend
+#   identifier: attend
+#   weight: 20
+# - name: Travel & Venue
+#   parent: attend
+#   url: venue
+#   weight: 3
+# - name: Housing
+#   parent: attend
+#   url: housing
+#   weight: 5
+# - name: Health & Safety
+#   parent: attend
+#   url: health
+#   weight: 10
+# - name: Diversity & Inclusion
+#   parent: attend
+#   url: diversity
+#   weight: 20
+# - name: Code of Conduct
+#   parent: attend
+#   url: conduct
+#   weight: 30
+# - name: Program
+#   identifier: program
+#   weight: 30
+# - name: Agenda
+#   parent: program
+#   url: agenda
+#   weight: 10
+# - name: Featured Keynote Speakers
+#   parent: program
+#   url: keynotes
+#   weight: 20
+# - name: Tutorials, Presentations, and Workshops
+#   parent: program
+#   url: tutorials
+#   weight: 30
+# - name: Posters
+#   parent: program
+#   url: posters
+#   weight: 35
+# - name: Accepted Papers
+#   parent: program
+#   url: accepted
+#   weight: 40
+# - name: Slides
+#   parent: program
+#   url: "https://drive.google.com/drive/folders/167M2Dk3Xi4I9-vph-doooLTvKpAfHTyz?usp=sharing"
+#   weight: 50
+# - name: Proceedings
+#   parent: program
+#   url: https://dl.acm.org/doi/proceedings/10.1145/3589806
+#   weight: 30
+# - name: Conference Summary
+#   parent: program
+#   url: https://acm-rep.github.io/post/20230714-acmrep23/
+# - name: Contact Us
+#   url: contact
+#   weight: 40
+  - name: ACM REP
+    url: https://acm-rep.github.io/
+    weight: 50
+  - name: ACM EIGREP
+    url: https://reproducibility.acm.org/
+    weight: 60
