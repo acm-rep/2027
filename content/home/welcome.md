@@ -27,4 +27,4 @@ advanced:
 ---
 
 
-**Contact**: [acmrep27-info-group@ucsc.edu](mailto:acmrep26-info-group@ucsc.edu)
+**Contact**: [acmrep27-info-group@ucsc.edu](mailto:acmrep27-info-group@ucsc.edu)
