@@ -1,9 +1,9 @@
 ---
 title: "Code of Conduct"
 ---
-The steering committee of ACM REP '24 believes in respect, compassion, understanding and inclusion and we expect all community members to act in accordance with these values. Fostering the free exchange of ideas requires building a conference that welcomes people of all backgrounds. Diversity of opinion and background is a fundamental strength of our community. The members of our community must have the freedom to espouse and explore a wide range of ideas. Toward that goal, ACM REP '24 aims to create spaces where every participant can express themselves without fear of judgment or harassment.
+The steering committee of ACM REP believes in respect, compassion, understanding and inclusion and we expect all community members to act in accordance with these values. Fostering the free exchange of ideas requires building a conference that welcomes people of all backgrounds. Diversity of opinion and background is a fundamental strength of our community. The members of our community must have the freedom to espouse and explore a wide range of ideas. Toward that goal, ACM REP aims to create spaces where every participant can express themselves without fear of judgment or harassment.
 
-The ACM REP Code of Conduct guides the expected, professional behavior of conference participants, including:
+The ACM REP Code of Conduct guides the expected, professional behavior of conference participants in all in-person, virtual, and hybrid conference sessions, side-events, social media channels, and attendee interactions—official or informal, including:
 
 - Treating everyone with respect and consideration; under the umbrella of respect, we expect all participants to be mindful of their speech and behaviors both in person and online.
 - Communicating openly and thoughtfully with others and being considerate of the multitude of views and opinions that may be different than your own.
@@ -29,22 +29,22 @@ We believe differences of opinion are a natural part of social and academic life
 - real or implied threat of physical harm;
 - real or implied threat of professional or financial damage or harm.
 
+- continued one-on-one communication after requests to cease;
+- comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion);
 Harassment can occur when there is no deliberate intention to offend. Be careful in the words that you choose. Harassment committed in a joking manner or disguised as a compliment still constitutes unacceptable behavior. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you.
 
 ## Consequences of Unacceptable Behavior
 
-If an ACM-REP participant engages in prohibited behavior, the conference committee reserves the right to take any action the committee deems appropriate, including removing the participant from the conference. 
+If an ACM-REP participant engages in prohibited behavior, the conference committee reserves the right to take any action the committee deems appropriate, including removing the participant from the conference (regardless of ACM affiliation, with no refund due). 
 
 ## How to Report Unacceptable Behavior
 
-In the event of unacceptable behavior, participants may wish to inform a person in authority. During ACM REP, participants should reach out to one of the General or Program Chairs (see list below).  These individuals can provide information about the process for handling complaints or handling immediate onsite needs. 
+In the event of unacceptable behavior, participants may wish to inform a person in authority. During ACM REP, participants should reach out to one of the General or Program Chairs (see list below).  These individuals can provide information about the process for handling complaints or handling immediate onsite needs. We are committed to protecting the confidentiality of your communication, and retaliation against anyone reporting misconduct is strictly prohibited.  For more information on how reports are made and processed at ACM activities, please refer to the [ACM reporting page](https://www.acm.org/about-acm/reporting-unacceptable-behavior).
 
 {{% callout note %}}
 There may be cases (such as those involving Title IX issues in the United States and venue- or employer-specific policies) where an on-site person who is informed of harassment will be required to file a complaint.
 {{% /callout %}}
 
-General Chair: Alex Voulimeneas  
-Program Chairs: Georgios Portokalidis & Soham Chakraborty  
+General Chair: Robert Ricci (University of Utah)
 
-
-This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW 2019 conference code of conduct](https://cscw.acm.org/2019/code-of-conduct.html).
+This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW '25 conference code of conduct](https://cscw.acm.org/2025/index.php/code-of-conduct/).

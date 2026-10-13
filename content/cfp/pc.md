@@ -11,9 +11,8 @@ design:
 ---
 
 ### Program Chairs
-Georgios Portokalidis (IMDEA Software Institute)  
-Soham Chakraborty (TU Delft)  
+TBD
 
 ### Program Committee
 
-{{< table path="../home/pc.csv" header="false" caption="" >}}
+TBD

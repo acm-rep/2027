@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: 2027 ACM Conference on Reproducibility and Replicability
 subtitle: |
-  Date TBD      
+  July 12-15, 2027       
   University of Utah | Salt Lake City, Utah, USA | [\@acm-rep](https://www.linkedin.com/company/acm-rep)
 active: true
 design:

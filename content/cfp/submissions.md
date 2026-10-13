@@ -6,7 +6,7 @@ title: "Submission Guidelines"
 subtitle: ""
 active: true
 ---
-We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2026 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
+We solicit papers describing original work relevant to reproducibility and independent verification of scientific results. The submission must not be published or under review elsewhere. ACM REP 2027 is a **double-blind** reviewed conference. Author names should not be included. Past work should be referred to in the third person. Self-citations and supplementary material (including code repositories) should also be anonymized.
 
 ACM REP submissions can be research, survey, vision, or experience papers. Submissions will be evaluated according to their significance, originality, technical content, style, clarity, relevance, and likelihood of generating discussion. Authors should note that changes to the author list after the submission deadline are not allowed without permission from the PC Chairs. At least one author of each accepted paper is required to register for, attend, and present the work at the conference. 
 
@@ -28,9 +28,7 @@ Papers must be submitted in PDF format according to the [ACM template](https://w
 
 ### Submission Site
 
-The conference submission site is: [acmrep2026.hotcrp.com](https://acmrep2026.hotcrp.com)
-
-{{< cta cta_text="Submissions closed" cta_link="" cta_new_tab="false" >}}
+TBD
 
 (Make sure to read the section on [ACM Open](#acmopen).)
 

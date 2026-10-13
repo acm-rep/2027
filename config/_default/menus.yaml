@@ -3,7 +3,7 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
+  main:
 # - name: Participate
 #   identifier: participate
 #   weight: 10
@@ -27,29 +27,29 @@ main:
 #   parent: participate
 #   url: sponsor
 #   weight: 20
-# - name: Attend
-#   identifier: attend
-#   weight: 20
-# - name: Travel & Venue
-#   parent: attend
-#   url: venue
-#   weight: 3
-# - name: Housing
-#   parent: attend
-#   url: housing
-#   weight: 5
+  - name: Attend
+    identifier: attend
+    weight: 20
+  - name: Travel & Venue
+    parent: attend
+    url: venue
+    weight: 3
+  - name: Housing
+    parent: attend
+    url: housing
+    weight: 5
 # - name: Health & Safety
 #   parent: attend
 #   url: health
 #   weight: 10
-# - name: Diversity & Inclusion
-#   parent: attend
-#   url: diversity
-#   weight: 20
-# - name: Code of Conduct
-#   parent: attend
-#   url: conduct
-#   weight: 30
+  - name: Diversity & Inclusion
+    parent: attend
+    url: diversity
+    weight: 20
+  - name: Code of Conduct
+    parent: attend
+    url: conduct
+    weight: 30
 # - name: Program
 #   identifier: program
 #   weight: 30
