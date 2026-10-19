@@ -15,3 +15,25 @@
   opacity: 1;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
+
+// Scrim panel behind the hero text so it stays readable over the photo.
+// Scoped via css_class: hero-contrast on the welcome section.
+// Applies to both the heading (title/subtitle) and the body (Contact line).
+.hero-contrast .section-heading {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 1.5rem 2rem;
+  border-radius: 10px;
+}
+
+.hero-contrast .col-12:not(.section-heading) {
+  text-align: center;
+}
+
+.hero-contrast .col-12:not(.section-heading) p {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  margin-top: 0;
+}
