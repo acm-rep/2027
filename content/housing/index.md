@@ -4,7 +4,7 @@ title: "Housing"
 
 There is no official hotel for the conference; however, we recommend the following as being particularly convenient.
 
-# University Guest House
+## University Guest House
 
 ![University Guest House](../media/guesthouse.jpg)
 
@@ -26,9 +26,9 @@ a free campus shuttle as well.
     - University Neighborhood: 25 minute walk, or 3 stops on TRAX Red line (Stadium Station)
     - Downtown Salt Lake City: TRAX red line to Courthouse station, or 15 minute drive
 
-# Marriott University Park
+## Marriott University Park
 
-![University Guest House](../media/marriott.jpg)
+![Marriott University Park](../media/marriott.jpg)
 
 The [Marriott University Park](https://www.marriott.com/en-us/hotels/slcup-salt-lake-city-marriott-university-park/overview/) is a 3.5 star hotel located in the University of Utah's Research Park. It is somewhat further from the venue than the Guest House, but more upscale.
 
@@ -43,7 +43,7 @@ The [Marriott University Park](https://www.marriott.com/en-us/hotels/slcup-salt-
     - University Neighborhood: 10 minute drive
     - Downtown Salt Lake City: 15 minute drive
     
-# Little America and Grand America
+## Little America and Grand America
 
 ![Little America](../media/the-little-america-hotel.jpg)
 ![Grand America](../media/the-grand-america-hotel.jpg)
