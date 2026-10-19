@@ -15,7 +15,7 @@ design:
   columns: '1'
   background:
     image: "Spring View-Campus-4.jpg"
-    image_darken: 0.5
+    image_darken: 0.65
     image_parallax: false
     image_position: center
     image_size: cover

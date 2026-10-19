@@ -7,26 +7,26 @@ subtitle: ""
 active: true
 ---
 
-### General Chair
+## General Chair
 <a href="https://ricci.io">Robert Ricci (University of Utah)</a>
 
-### Program Chairs
+## Program Chairs
 <ul>
   <li><a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a></li>
   <li><a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a></li>
 </ul>
 
-### Artifact Evaluation Chair
+## Artifact Evaluation Chair
 <a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>
 
-### Tutorial Chair
+## Tutorial Chair
 TBD  
 
-### Local Arrangements Chairs
+## Local Arrangements Chairs
 <a href="https://ricci.io">Robert Ricci (University of Utah)</a>
   
-### Proceedings
+## Proceedings
 TBD  
 
-### Website
+## Website
 <a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
