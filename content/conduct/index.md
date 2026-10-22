@@ -47,4 +47,4 @@ There may be cases (such as those involving Title IX issues in the United States
 
 General Chair: Robert Ricci (University of Utah)
 
-This code of content was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW '25 conference code of conduct](https://cscw.acm.org/2025/index.php/code-of-conduct/).
+This code of conduct was adapted from the [Policy Against Harassment at ACM Activities](https://www.acm.org/about-acm/policy-against-harassment) and the [ACM CSCW '25 conference code of conduct](https://cscw.acm.org/2025/index.php/code-of-conduct/).

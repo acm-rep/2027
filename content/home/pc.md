@@ -10,4 +10,4 @@ design:
   css_class: null
 ---
 
-{{< table path="pc.csv" header="false" caption="" >}}
+{{< table path="pc.csv" header="true" caption="" >}}

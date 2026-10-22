@@ -15,7 +15,7 @@ design:
   columns: '1'
   background:
     image: "Spring View-Campus-4.jpg"
-    image_darken: 0.5
+    image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
@@ -23,7 +23,7 @@ design:
   spacing:
     padding: ['20px', '0', '20px', '0']
 advanced:
-  css_class:
+  css_class: hero-contrast
 ---
 
 
