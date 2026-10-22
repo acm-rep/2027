@@ -18,13 +18,13 @@ active: true
 <a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>
 
 ## Tutorial Chair
-TBD  
+<a href="https://www.farmingdale.edu/faculty/?fid=45">ilknur Aydin (SUNY Farmingdale)</a>
 
 ## Local Arrangements Chairs
 <a href="https://ricci.io">Robert Ricci (University of Utah)</a>
   
-## Proceedings
-TBD  
+## Proceedings Chair
+<a href="https://thisissachin.xyz/">Sachin Kumar Singh (University of California Davis)</a>
 
 ## Website
 <a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
