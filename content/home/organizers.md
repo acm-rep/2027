@@ -11,10 +11,8 @@ active: true
 <a href="https://ricci.io">Robert Ricci (University of Utah)</a>
 
 ## Program Chairs
-<ul>
-  <li><a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a></li>
-  <li><a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a></li>
-</ul>
+<p><a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a></p>
+<p><a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a></p>
 
 ## Artifact Evaluation Chair
 <a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>
