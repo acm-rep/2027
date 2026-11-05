@@ -26,5 +26,8 @@ active: true
 ## Proceedings Chair
 <a href="https://thisissachin.xyz/">Sachin Kumar Singh (University of California Davis)</a>
 
+## Publicity Chair
+<a href="https://vaastavanand.com/">Vaastav Anand (ETH Zürich)</a>
+
 ## Website
 <a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
