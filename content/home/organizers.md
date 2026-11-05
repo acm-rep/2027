@@ -11,8 +11,8 @@ active: true
 <a href="https://ricci.io">Robert Ricci (University of Utah)</a>
 
 ## Program Chairs
-<p><a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a></p>
-<p><a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a></p>
+<a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a>  
+<a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a>  
 
 ## Artifact Evaluation Chair
 <a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>
@@ -25,6 +25,9 @@ active: true
   
 ## Proceedings Chair
 <a href="https://thisissachin.xyz/">Sachin Kumar Singh (University of California Davis)</a>
+
+## Publicity Chair
+<a href="https://vaastavanand.com/">Vaastav Anand (ETH Zürich)</a>
 
 ## Website
 <a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
