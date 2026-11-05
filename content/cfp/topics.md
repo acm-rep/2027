@@ -12,57 +12,17 @@ This CFP is a draft, and subject to change before it is officially announced.
 {{< /callout >}}
 
 
-ACM REP '27 welcomes submissions across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. The conference particularly values submissions that demonstrate reproducible experimental results. Where full reproduction is not achieved, detailed documentation of the reproducibility experience is equally valuable.
+ACM REP '27 welcomes submissions across all aspects of reproducibility and replicability. Papers are expected to provide **new analysis, insights, or improvements**, for example by identifying reproducibility challenges, proposing methodological refinements, or offering broader lessons learned for the community.
 
-The conference addresses various aspects of reproducibility and replicability, including but not limited to the following topics: 
+Topics of interest include, but are not limited to:
+    
+ - **Reproduction studies and campaigns.** Large-scale or focused efforts to reproduce results in a computing subfield or interdisciplinary domain, lessons from reproducing papers or benchmarks, comparisons across independent reproductions, coordinating multi-paper or community-wide efforts, and tooling challenges in systematic reproduction.
+ - **Reproducibility over time.** Benchmarks and environments that change, software and workflow decay, long-term archiving and re-verification, reproducible builds and software supply chains, and lifecycle studies from initial replication to long-term maintenance.
+- **Methods and tools for reproducible experiments.** Dependency management, packaging and containers, portability of code and performance, scientific workflows for reproducibility, record and replay, automated execution and validation, provenance, data versioning, approximate reproducibility, and reproducibility-aware infrastructure.
+ - **Building, sharing, evaluating and reusing artifacts**. Building good artifacts, artifact evaluation at conference scale, experiences consuming artifacts, discoverability and metadata standards, reusability and repurposability, and fitting reproducibility frameworks into established domain tools.
+ - **Negative and partial results.** Failed or partial reproductions, unreproducible published findings, and what the failures reveal about causes and fixes.
+ - **Metascience of reproducibility.** Measuring reproducibility across papers, venues or repositories, relating reproducibility to citations and impact, publication and software policies, and cost-benefit frameworks.
+ - **Education, community and practice.** Building research groups with strong reproducibility habits, teaching reproducibility, hackathons and summer programs, incentives and sociological frameworks for change, and experiences within computational science communities.
+ - **Reproducibility challenges within a computing subfield.** Subfield-specific obstacles such as hardware and measurement variability, nondeterminism, collecting experimental data from laboratory or real-world settings, and privacy or security concerns that arise from reproducibility itself, including securing reproducibility infrastructure.
 
-### Reproducibility Concepts 
-- Experiment dependency management.
-- Experiment portability for code, performance, and related metrics.
-- Software and artifact packaging and container-related reproducibility methods. 
-- Approximate reproducibility. 
-- Record and replay methods. 
-- Data versioning and preservation.
-- Provenance of data-intensive experiments.
-- Automated experiment execution and validation.
-- Reproducibility-aware computational infrastructure.
-- Experiment discoverability for re-use.
-- Approaches for advancing reproducibility.
-
-### Reproducibility Experiences
-- Experience of sharing and consuming reproducible artifacts. 
-- Conference-scale artifact evaluation experiences and practices.
-- Experiences as part of hackathons and summer programs.
-- Classroom and teaching experiences. 
-- Usability and adaptability of reproducibility frameworks into already-established domain-specific tools.
-- Frameworks for sociological constructs to incentivize paradigm shifts.
-- Policies around publication of articles/software.
-- Experiences within computational science communities.
-- Collecting datasets from laboratory / real-world settings.
-
-### Systems and Security Concerns
-- Experience comparing published systems in a domain.
-- Tools to support replicability of system analysis.
-- Designing machine learning workflows to support reproducibility.
-- Reproducing real-world security findings.
-- Privacy concerns arising from reproducibility.
-- Challenges of reproducing security experiments.
-- Securing reproducibility infrastructure.
-
-### Reproducibility Campaigns
-- Large-scale or focused efforts to reproduce results within a specific computer science or interdisciplinary domain.
-- Challenges and lessons learned from reproducing published papers or benchmark studies.
-- Comparative analyses of findings across independently reproduced works.
-- Methodological or infrastructural experiences in coordinating multi-paper or community-wide reproduction efforts.
-- Lifecycle studies of reproduction, from initial replication to long-term maintenance and validation of results.
-- Infrastructure and tooling challenges encountered during systematic reproduction exercises.
-
-### Broader Reproducibility
-- Cost-benefit analysis frameworks for reproducibility.
-- Novel methods and techniques that impact reproducibility.
-- Reusability, repurposability, and replicability methods. 
-- Long-term artifact archiving and verification/testing for future reproducibility.
-
-{{< callout note >}}
-While ACM REP welcomes work that reproduces or replicates prior studies, **submissions should go beyond simply re-running existing experiments**. Papers are expected to provide **new analysis, insights, or improvements**, for example by identifying reproducibility challenges, proposing methodological refinements, or offering broader lessons learned for the community.
-{{< /callout >}}
+Submissions are welcome across computing disciplines, spanning both traditional computer science and interdisciplinary scientific computing applications in biology, chemistry, physics, astronomy, genomics, geosciences, etc. At submission time, authors will be asked to identify the most relevant computing discipline to facilitate assignment to reviewers with appropriate domain expertise.
