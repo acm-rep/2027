@@ -28,9 +28,9 @@ Authors are invited to submit long or short papers in the following four categor
 
 ### Open Science Policy
 
-**At submission time**: All long and short papers must submit accompanying artifacts, or an explanation of why artifacts are not applicable or cannot be made available. Papers without artifacts or an explanation will be desk-rejected. Artifacts will be made available to the Program Committee for reference, and should be fully anonymized (e.g., via [anonymous 4open science](https://anonymous.4open.science/)). Authors may include in their submission an Artifact Description Appendix up to one page long.
+**At submission time**: The expectation of long and short paper submissions is that their accompanying artifacts can be made available post acceptance or provide an explanation of why it is not possible (e.g., export regulations). The choice or reason must be indicated at submission time. Authors may include an Artifact Description Appendix up to one page long (not counting towards the page limit) in their submission and may include a link to a fully anonymized artifact (e.g., via [anonymous 4open science](https://anonymous.4open.science/)). 
 
-**For accepted papers**: Artifacts will be reviewed by an Artifact Evaluation Committee following acceptance, and [badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current)  will be awarded per ACM policy. At this stage, all papers must make their accompanying artifacts publicly available in a persistent, long-term repository, meeting at least the requirements for the Artifacts Available badge, or provide an explanation of why this is not applicable or feasible.
+**For accepted papers**: All conditionally accepted long or short papers have to submit their artifacts to the Artifact Evaluation process (see CfA) and achieve the available badge (release artifact in persistent, long-term repository), unless an exception is approved by the PC chairs. Artifacts will be reviewed by an Artifact Evaluation Committee, and [badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) will be awarded per ACM policy. Throughout this process the artifact can be refined and improved to meet the ACM requirements.
 
 ### Formatting 
 
