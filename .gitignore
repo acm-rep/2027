@@ -13,3 +13,6 @@ serve/
 # Mac
 .DS_Store
 /.cache/
+
+# Direnv
+.direnv/
