@@ -25,7 +25,7 @@ advanced:
   css_class:
 ---
 
-ACM REP '27 is the first edition of the conference to include an artifact evaluation process. We aim to support authors in preparing high-quality artifacts that help other researchers examine, reproduce, and build on their work, advancing the conference's goal of promoting reproducibility and replicability in computing.
+ACM REP '27 aims to support authors in preparing high-quality artifacts that help other researchers examine, reproduce, and build on their work, advancing the conference's goal of promoting reproducibility and replicability in computing.
 
 All accepted papers must submit their accompanying artifacts for evaluation and achieve the Artifacts Available badge, unless an exception is approved by the PC chairs. Artifacts may include source code, datasets, experiment scripts, analysis tools, configuration files, notebooks, and other materials that support the work described in the paper.
 
