@@ -7,11 +7,9 @@ subtitle: ""
 active: true
 ---
 
-- Abstract submission (Long and Short): March 12, 2027, 23:59 AOE
-- Paper submission (Long and Short): March 19, 2027, 23:59 AOE
-- Notification of acceptance: May 21, 2027
-- Camera-ready copy: June 18, 2027
+- Abstract submission (Long and Short): February 17, 2027
+- Paper submission (Long and Short): February 24, 2027
+- Notification of acceptance: April 20, 2027
+- Camera-ready copy: June 9, 2027
 - Author registration close: June 25, 2027
 - Conference: July 12 - 15, 2027  
-
-
