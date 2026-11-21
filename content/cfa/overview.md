@@ -7,10 +7,6 @@ active: true
 design:
   columns: "2"
 ---
-{{< callout warning >}}
-This Call for Artifacts is a draft, and subject to change before it is officially announced.
-{{< /callout >}}
-
 The artifact evaluation process provides an opportunity for authors to receive feedback and improve their artifacts before the final version is archived. It follows the paper acceptance and covers artifacts accompanying both long and short papers. 
 
 We encourage authors to begin preparing their artifacts early and contact the Artifact Evaluation Committee (AEC) chair if they anticipate difficulties with submission. 
