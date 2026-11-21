@@ -27,3 +27,11 @@ providing a [welcoming environment](conduct/) for [all](diversity).
 It will feature a technical program, keynote speakers, a day of hands-on
 tutorials, and events designed to form community ties that endure beyond the
 conference.
+
+{{< callout note >}}
+### Calls for Participation
+
+- **[Papers](cfp/)**: Abstracts 2/17/27, papers 2/24/27
+- **[Tutorial Proposals](cft/)**: TBA
+- **[Artifacts](cfa/)**: 4/30/27
+{{< /callout >}}
