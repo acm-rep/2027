@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 40 # Order that this section will appear.
 title: "Important Dates"
 subtitle: ""
-active: true
+active: false
 ---
 <span style=color:grey>Tutorial submission: May 22, 2026, 23:59 AOE</span>  
 <span style=color:grey>Notification of acceptance: June 2, 2026</span>  
