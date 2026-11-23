@@ -25,11 +25,6 @@ advanced:
   css_class: 
 ---
 
-The 2026 ACM Conference on Reproducibility and Replicability (ACM REP '26) aims to bring together experts and practitioners engaged in the advancement and conduct of reproducible science in computing disciplines. The first-of-its-kind conference will serve as a premier forum for the exchange and presentation of the concepts, tools, techniques, practice and state-of-art in reproducible science. The conference committee invites tutorials related to reproducibility and independent verification. 
+ACM REP 2027 will feature a full day of hands-on tutorials.
 
-{{< cta cta_text="Important Dates" cta_link="#deadlines" cta_new_tab="false" >}}
-{{< cta cta_text="Submissions closed" cta_link="" cta_new_tab="false" >}}
-
-The ACM REP conference series is associated with the [ACM Emerging Interest Group for Reproducibility and Replicability](https://reproducibility.acm.org/) (see [here](https://acm-rep.github.io/history) for ACM REP's history). 
-
-**Table of Contents:** [Topics of Interest](#topics) | [Submission Guidelines](#submissions) | [**Important Dates**](#deadlines)
+The Call for Tutorials is coming soon!

@@ -7,11 +7,6 @@ subtitle: ""
 active: true
 ---
 
-{{< callout warning >}}
-This CFP is a draft, and subject to change before it is officially announced.
-{{< /callout >}}
-
-
 ACM REP '27 welcomes submissions across all aspects of reproducibility and replicability. Papers are expected to provide **new analysis, insights, or improvements**, for example by identifying reproducibility challenges, proposing methodological refinements, or offering broader lessons learned for the community.
 
 Topics of interest include, but are not limited to:

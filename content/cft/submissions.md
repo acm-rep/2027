@@ -4,7 +4,7 @@ headless: true # This file represents a page section.
 weight: 30 # Order that this section will appear.
 title: "Submission Guidelines"
 subtitle: ""
-active: true
+active: false
 ---
 
 Tutorial proposals should be submitted in PDF format to: [A.Voulimeneas@tudelft.nl](mailto:A.Voulimeneas@tudelft.nl)  

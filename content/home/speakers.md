@@ -1,8 +1,8 @@
 ---
 widget: people
 headless: true
-active: false
-weight: 15
+active: true
+weight: 18
 title: Featured Keynote Speakers
 subtitle: >-
   Meet the ACM REP '27 Keynote Speakers (more to come).
