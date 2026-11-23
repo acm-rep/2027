@@ -1,4 +1,4 @@
-# ACM REP 2026 Conference website
+# ACM REP 2027 Conference website
 
 ## Repository structure
 
@@ -23,7 +23,7 @@ The website is using HugoBlox legacy code that can cause failures with `hugo` ne
     - Clone the repository  
     - Perform edits -- I highly recommend using [Visual Studio Code](https://code.visualstudio.com/) for editing and common git commands. It does a great job showing all files in the repository and their git status. Make sure to create a repository in a _local_ directory that is not backed by Google Drive, iCloud, or any other file sharing service. Bad things tend to happen if you do  
     - [Install hugo](https://docs.hugoblox.com/getting-started/install-hugo/) (skip "Download a Template") and [view your site](https://docs.hugoblox.com/getting-started/install-hugo/#view-your-site) locally using `hugo server -D` (it quickly rebuilds the local view whenever you save a change)  
-    - Create a pull request against the `main` branch of the origin `acm-rep/2026` repository. This will create a Netlify preview within the pull request. Any additional pushes to the pull request's branch will update the preview.  
+    - Create a pull request against the `main` branch of the origin `acm-rep/2027` repository. This will create a Netlify preview within the pull request. Any additional pushes to the pull request's branch will update the preview.  
     
 2. **Using VS Code for the Web:** By replacing `.com` in the github repository's web address with `.dev`, one can use [Visual Studio Code for the Web](https://code.visualstudio.com/docs/editor/vscode-web). This allows creating branches, committing updates, creating pull requests, and merging them without any local environment.
 

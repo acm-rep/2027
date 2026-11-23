@@ -8,11 +8,13 @@ active: true
 ---
 
 ## General Chair
-<a href="https://ricci.io">Robert Ricci (University of Utah)</a>
+<a href="https://ricci.io">Robert Ricci (University of Utah)</a><br>
+<i>[acmrep27-info-group@ucsc.edu](mailto:acmrep27-info-group@ucsc.edu)</i>
 
 ## Program Chairs
 <a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a>  
 <a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a>  
+<i>[acmrep27-pc-group@ucsc.edu](mailto:acmrep27-pc-group@ucsc.edu)</i>
 
 ## Artifact Evaluation Chair
 <a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>

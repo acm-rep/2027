@@ -17,4 +17,4 @@ design:
 
 ### Program Committee
 
-*The program committee is still being formed. If you have an interest in serving on it, please contact the program chairs.*
+*The program committee is still being formed. If you have an interest in serving on it, please contact the program chairs at [acmrep27-pc-group@ucsc.edu](mailto:acmrep27-pc-group@ucsc.edu)*
