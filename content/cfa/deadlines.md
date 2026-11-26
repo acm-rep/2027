@@ -9,13 +9,13 @@ design:
   columns: "2"
 ---
 
-All dates are in 2027.
+All dates are in 2027.  
 
-- Artifact registration and submission window: April 21 - 30
-- Artifact submission deadline: April 30
-- Bidding period: May 1 - 4
-- Kick-the-tires phase: May 5 - 9
-- Main artifact evaluation: May 10 - 27
-- Author notification: May 29
-- Final badge list: June 2
+Artifact registration and submission window: **<span style=color:blue>April 21-30</span>**  
+Artifact submission deadline: **<span style=color:blue>April 30</span>**  
+Bidding period: May 1-4  
+Kick-the-tires phase: May 5-9  
+Main artifact evaluation: May 10-27  
+Author notification: May 29  
+Final badge list: June 2  
 
