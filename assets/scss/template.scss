@@ -8,6 +8,14 @@
   justify-content: center;
 }
 
+// Boost hero/section subtitle contrast over the background image
+// (!important overrides the theme's .dark .section-heading p color)
+.section-heading p {
+  color: #fff !important;
+  opacity: 1;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
 
 // Scrim panel behind the hero text so it stays readable over the photo.
 // Scoped via css_class: hero-contrast on the welcome section.
