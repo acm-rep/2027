@@ -30,8 +30,7 @@ conference.
 
 {{< callout note >}}
 ### Calls for Participation
-
-- **[Papers](cfp/)**: Abstracts 2/17/27, papers 2/24/27
-- **[Tutorial Proposals](cft/)**: TBA
-- **[Artifacts](cfa/)**: 4/30/27
+**[Papers](cfp/)**: Abstracts 2/17/27, papers 2/24/27  
+**[Tutorial Proposals](cft/)**: TBA  
+**[Artifacts](cfa/)**: 4/30/27  
 {{< /callout >}}
