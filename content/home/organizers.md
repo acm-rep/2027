@@ -8,28 +8,28 @@ active: true
 ---
 
 ## General Chair
-<a href="https://ricci.io">Robert Ricci (University of Utah)</a><br>
-<i>[acmrep27-info-group@ucsc.edu](mailto:acmrep27-info-group@ucsc.edu)</i>
+[Robert Ricci (University of Utah)](https://ricci.io)  
+*contact: [acmrep27-info-group@ucsc.edu](mailto:acmrep27-info-group@ucsc.edu)*  
 
 ## Program Chairs
-<a href="https://engineering.nyu.edu/faculty/fraida-fund">Fraida Fund (NYU Tandon)</a>  
-<a href="https://vahldiek.github.io/">Anjo Vahldiek-Oberwagner (Intel, TU Munich)</a>  
-<i>[acmrep27-pc-group@ucsc.edu](mailto:acmrep27-pc-group@ucsc.edu)</i>
+[Fraida Frund (NYU Tandon)](https://engineering.nyu.edu/faculty/fraida-fund)    
+[Anjo Vahldiek-Oberwagner (Intel, TU Munich)](https://vahldiek.github.io/)  
+*contact: [acmrep27-pc-group@ucsc.edu](mailto:acmrep27-pc-group@ucsc.edu)*  
 
 ## Artifact Evaluation Chair
-<a href="https://maryogunmola.com/">Mary Ogunmola (University of Utah)</a>
+[Mary Ogunmola (University of Utah)](https://maryogunmola.com/)  
 
 ## Tutorial Chair
-<a href="https://www.farmingdale.edu/faculty/?fid=45">ilknur Aydin (SUNY Farmingdale)</a>
+[ilknur Aydin (SUNY Farmingdale)](https://www.farmingdale.edu/faculty/?fid=45")  
 
 ## Local Arrangements Chairs
-<a href="https://ricci.io">Robert Ricci (University of Utah)</a>
+[Robert Ricci (University of Utah)](https://ricci.io)  
   
 ## Proceedings Chair
-<a href="https://thisissachin.xyz/">Sachin Kumar Singh (University of California Davis)</a>
+[Sachin Kumar Singh (University of California Davis)](https://thisissachin.xyz/)  
 
 ## Publicity Chair
-<a href="https://vaastavanand.com/">Vaastav Anand (ETH Zürich)</a>
+[Vaastav Anand (ETH Zürich)](https://vaastavanand.com/)  
 
 ## Website
-<a href="https://users.soe.ucsc.edu/~carlosm/dev/">Carlos Maltzahn (UC Santa Cruz)</a>
+[Carlos Maltzahn (UC Santa Cruz)](https://users.soe.ucsc.edu/~carlosm/dev/)  

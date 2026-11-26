@@ -26,5 +26,8 @@ advanced:
   css_class: hero-contrast
 ---
 
+{{< cta cta_text="Call for Papers" cta_link="cfp" >}}  
+{{< cta cta_text="Call for Tutorials" cta_link="cft" >}}  
+{{< cta cta_text="Call for Artifacts" cta_link="cfa" >}}  
 
 **Contact**: [acmrep27-info-group@ucsc.edu](mailto:acmrep27-info-group@ucsc.edu)

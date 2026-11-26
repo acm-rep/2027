@@ -29,8 +29,6 @@ ACM REP '27 aims to support authors in preparing high-quality artifacts that hel
 
 All accepted papers must submit their accompanying artifacts for evaluation and achieve the Artifacts Available badge, unless an exception is approved by the PC chairs. Artifacts may include source code, datasets, experiment scripts, analysis tools, configuration files, notebooks, and other materials that support the work described in the paper.
 
-<div class="text-center">
-  <a class="btn btn-primary js-scroll" href="#deadlines">Important Dates</a>
-</div>
+{{< cta cta_text="Important Dates" cta_link="#deadlines" >}}  
 
-**Table of Contents:** <a class="js-scroll" href="#overview">Overview</a> | <a class="js-scroll" href="#submissions">Submission Guidelines</a> | <a class="js-scroll" href="#badges">Badges</a> | <a class="js-scroll" href="#process">Evaluation Process</a> | <a class="js-scroll" href="#deadlines">Important Dates</a> | <a class="js-scroll" href="#pc">Artifact Evaluation Committee</a>
+**Table of Contents:** [Overview](#overview) | [Submisssion Guidelines](#submissions) | [Badges](#badges) | [Evaluation Process](#process) | [**Important Dates**](#deadlines) | [Artifact Evaluation Committee](#pc)

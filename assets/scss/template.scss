@@ -8,15 +8,14 @@
   justify-content: center;
 }
 
-// Boost hero/section subtitle contrast over background images.
-// Scoped to .dark sections (text_color_light: true) so light-background
-// sections like Featured Keynote Speakers keep the theme's dark text.
+// Boost hero/section subtitle contrast over the background image
 // (!important overrides the theme's .dark .section-heading p color)
-.dark .section-heading p {
+.section-heading p {
   color: #fff !important;
   opacity: 1;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
+
 
 // Scrim panel behind the hero text so it stays readable over the photo.
 // Scoped via css_class: hero-contrast on the welcome section.
@@ -30,12 +29,9 @@
 
 .hero-contrast .col-12:not(.section-heading) {
   text-align: center;
-}
-
-.hero-contrast .col-12:not(.section-heading) p {
   display: inline-block;
   background: rgba(0, 0, 0, 0.55);
-  padding: 0.75rem 1.5rem;
+  padding: 1.5rem 2rem;
   border-radius: 10px;
-  margin-top: 0;
 }
+
