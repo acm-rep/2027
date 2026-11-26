@@ -1,9 +1,13 @@
 ---
-title: "Miriam Leeser"
-date: 2026-11-21
-type: page
-# Optional: set `draft: true` to hide
-draft: false
----
+# This pulls in the content from the corresponding profile in the /content/authors directory, in this case /content/authors/hoefler.md. Add this in a new file for each speaker. The only thing that needs to change is the "weight:" and the "author:" attributes. The weight determines the order on the page. For this to work, the "author:" name needs to match the file name (without the ".md") in /content/authors.
+widget: about
+headless: true
+active: true
+weight: 40
+title: 
+design:
+  columns: 2
+author: mleeser
+---  
 
-**Miriam Leeser** is a Professor in the Department of Electrical and Computer Engineering at [Northeastern University](https://www.northeastern.edu), where she directs the [Reconfigurable Computing Laboratory (RCL)](https://coe.northeastern.edu/Research/rcl/). Her research includes reproducibility in high-performance computing, as well as FPGAs, GPUs, software-defined radio, and programming paradigms for heterogeneous computers.
+

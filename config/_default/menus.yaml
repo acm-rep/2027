@@ -54,17 +54,17 @@ main:
    parent: attend
    url: conduct
    weight: 30
-# - name: Program
-#   identifier: program
-#   weight: 30
+ - name: Program
+   identifier: program
+   weight: 30
 # - name: Agenda
 #   parent: program
 #   url: agenda
 #   weight: 10
-# - name: Featured Keynote Speakers
-#   parent: program
-#   url: keynotes
-#   weight: 20
+ - name: Featured Keynote Speakers
+   parent: program
+   url: keynotes
+   weight: 20
 # - name: Tutorials, Presentations, and Workshops
 #   parent: program
 #   url: tutorials
